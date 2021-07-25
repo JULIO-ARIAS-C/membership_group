@@ -1,0 +1,38 @@
+.register {
+    background: rgb(55, 55, 226);
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin: 20px 30px 0 60px;
+}
+
+.login {
+    background: rgb(55, 55, 226);
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px 30px;
+}
+
+input {
+    margin: 10px;
+    
+}
+
+label {
+    color: white;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.alert {
+    background-color: rgb(91, 231, 91);
+}
+
+li {
+    color: green;
+}
